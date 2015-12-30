@@ -2,7 +2,7 @@
 title: Target page the url redirection
 ---
 
-# Related URL page Redirection 
+# Relative URL page Redirection 
 
 The content comes from Windows PowerShell Desired State Configuration Overview 
 
