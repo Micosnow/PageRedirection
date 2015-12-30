@@ -1,2 +1,2 @@
 #Table of Content
-##[Realted URL Page Redirection](target.md)
+##[Relative URL Page Redirection](target.md)
